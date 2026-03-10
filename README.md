@@ -10,6 +10,7 @@ It’s designed for producers who want to quickly transform rigid MIDI into some
 
 ![Alt text](/app-002.png)
 
+---
 
 **To install this** (it is virus free and does not contact any servers), because it is not signed via Apple's developer program, you have to follow these steps: 
 
