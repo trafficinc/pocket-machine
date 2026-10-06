@@ -1,4 +1,4 @@
-Pocket Machine is a lightweight macOS standalone tool for adding groove and feel to MIDI drum loops.
+Pocket Machine is a lightweight mac OS standalone tool for adding groove and feel to MIDI drum loops.
 
 Import a MIDI drum pattern, apply timing shifts, swing, and groove profiles inspired by classic drum machines and samplers, then export the processed MIDI back into your DAW.
 
